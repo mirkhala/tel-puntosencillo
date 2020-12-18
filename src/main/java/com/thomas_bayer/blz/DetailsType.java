@@ -30,8 +30,8 @@ import javax.xml.bind.annotation.XmlType;
  * 
  */
 @javax.xml.bind.annotation.XmlAccessorType(javax.xml.bind.annotation.XmlAccessType.FIELD)
-@javax.xml.bind.annotation.XmlType(propOrder = {"bezeichnung", "bic", "ort",
-		"plz"}, name = "detailsType")
+@javax.xml.bind.annotation.XmlType(name = "detailsType", propOrder = {
+		"bezeichnung", "bic", "ort", "plz"})
 public class DetailsType {
 
 	protected String bezeichnung;
