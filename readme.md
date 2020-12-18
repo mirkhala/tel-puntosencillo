@@ -5,7 +5,7 @@ _La PoC tiene como objetivo principal probar funcionalidades específicas de la 
 
 _Dada la necesidad de automatizar procesos que actualmente se realizan manualmente; se escoge el proceso **Punto Sencillo** como ejemplo de cómo la plataforma automatiza muchas actividades manuales._
 
-Para más detalle en ![Business Process](https://github.com/mirkhala/tel-puntosencillo/blob/master/flow/puntoSencillopoceso.png?raw=true) puedes ver el diagrama.
+Para más detalle este es el diagrama: ![Business Process](https://github.com/mirkhala/tel-puntosencillo/blob/master/flow/puntoSencillopoceso.png?raw=true)
 
 
 ### ¿Dónde probar el proceso? 🔧
