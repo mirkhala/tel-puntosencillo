@@ -3,9 +3,17 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>/Users/mirkhala/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>redhat-ga-repository</id>
+        <url>http://maven.repository.redhat.com/ga/</url>
+        <source>SETTINGS</source>
+      </metadata>
+    </repository>
+    <repository>
+      <include>true</include>
+      <metadata>
+        <id>redhat-tech-preview-all</id>
+        <url>http://maven.repository.redhat.com/techpreview/all/</url>
+        <source>SETTINGS</source>
       </metadata>
     </repository>
     <repository>
@@ -13,14 +21,6 @@
       <metadata>
         <id>redhat-earlyaccess-all</id>
         <url>https://maven.repository.redhat.com/earlyaccess/all</url>
-        <source>SETTINGS</source>
-      </metadata>
-    </repository>
-    <repository>
-      <include>true</include>
-      <metadata>
-        <id>redhat-ga-repository</id>
-        <url>http://maven.repository.redhat.com/ga/</url>
         <source>SETTINGS</source>
       </metadata>
     </repository>
@@ -35,9 +35,9 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>redhat-tech-preview-all</id>
-        <url>http://maven.repository.redhat.com/techpreview/all/</url>
-        <source>SETTINGS</source>
+        <id>local</id>
+        <url>/Users/mirkhala/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
   </repositories>
