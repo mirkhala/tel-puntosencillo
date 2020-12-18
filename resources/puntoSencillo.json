@@ -1,0 +1,18 @@
+{
+    "servicio": {
+        "Servicio": {
+            "esOnline": true,
+            "esVigente": true,
+            "equipo": "Cisco",
+            "ms": "Internet",
+            "ds": "Punto Sencillo",
+            "ciudad": "Bogota",
+            "direccion": "Cra. 23b #80-64",
+            "esUnAlta": true,
+            "banwidth": 50
+        }
+    }
+}
+
+// container id: puntoSencillo
+// process id:  puntoSencillo.PuntoSencilloBusinessProcess
